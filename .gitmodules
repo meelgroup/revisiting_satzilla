@@ -1,0 +1,3 @@
+[submodule "SAT-features-competition2024/satzilla_Solvers/SBVA"]
+	path = SAT-features-competition2024/satzilla_Solvers/SBVA
+	url = git@github.com:hgarrereyn/SBVA.git
